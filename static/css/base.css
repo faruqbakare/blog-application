@@ -1,0 +1,18 @@
+*{
+    font-family: 'source sans pro', sans-serif;
+    background-color: rgb(209, 255, 205);
+    font-size: 18px;
+}
+header {
+    border-bottom: 1px solid #999;
+    margin-bottom: 2rem;
+}
+header h1 a{
+    color: #000;
+}
+a:hover{
+    color: rgb(255, 16, 16);
+}
+a{
+    text-decoration: none;
+}
